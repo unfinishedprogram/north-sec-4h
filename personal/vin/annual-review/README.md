@@ -40,3 +40,13 @@ Installed AWS CLI
 logged into aws CLI with credentials found in dynamo.php
 aws dynamodb scan --table-name "GOD_LoginEmployee"
 found flag as password.
+
+---
+
+Part 3
+
+With the HR credentials we logged in as HR
+
+There was a url to some documentation which contained the flag
+
+---
