@@ -1,0 +1,332 @@
+[
+  {
+    "entity_class": "DATABASE",
+    "entity_name": "god",
+    "subentity_name": "",
+    "permissions": "CONNECT, VIEW ANY COLUMN ENCRYPTION KEY DEFINITION, VIEW ANY COLUMN MASTER KEY DEFINITION, "
+  },
+  {
+    "entity_class": "DATABASE",
+    "entity_name": "master",
+    "subentity_name": "",
+    "permissions": "CONNECT, VIEW ANY COLUMN ENCRYPTION KEY DEFINITION, VIEW ANY COLUMN MASTER KEY DEFINITION, "
+  },
+  {
+    "entity_class": "DATABASE",
+    "entity_name": "model",
+    "subentity_name": "",
+    "permissions": "CONNECT, VIEW ANY COLUMN ENCRYPTION KEY DEFINITION, VIEW ANY COLUMN MASTER KEY DEFINITION, "
+  },
+  {
+    "entity_class": "DATABASE",
+    "entity_name": "msdb",
+    "subentity_name": "",
+    "permissions": "CONNECT, VIEW ANY COLUMN ENCRYPTION KEY DEFINITION, VIEW ANY COLUMN MASTER KEY DEFINITION, "
+  },
+  {
+    "entity_class": "DATABASE",
+    "entity_name": "tempdb",
+    "subentity_name": "",
+    "permissions": "CONNECT, VIEW ANY COLUMN ENCRYPTION KEY DEFINITION, VIEW ANY COLUMN MASTER KEY DEFINITION, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "dbid",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "name",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "status",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "version",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "xdttm_ins",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "xdttm_last_ins_upd",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "xfallback_dbid",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_db",
+    "subentity_name": "xserver_name",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "high",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "low",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "name",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "phyname",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "status",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "xdttm_ins",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "xdttm_last_ins_upd",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "xfallback_drive",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "xfallback_low",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_dev",
+    "subentity_name": "xserver_name",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "dbid",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "lstart",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "segmap",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "sizepg",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "vstart",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "xdttm_ins",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "xdttm_last_ins_upd",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "xfallback_vstart",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_fallback_usg",
+    "subentity_name": "xserver_name",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "connections",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "cpu_busy",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "idle",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "io_busy",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "lastrun",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "pack_errors",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "pack_received",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "pack_sent",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "total_errors",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "total_read",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_monitor",
+    "subentity_name": "total_write",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "high",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "low",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "name",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "number",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "status",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "OBJECT",
+    "entity_name": "spt_values",
+    "subentity_name": "type",
+    "permissions": "SELECT, "
+  },
+  {
+    "entity_class": "SERVER",
+    "entity_name": "ctn-mbergeron-askgod",
+    "subentity_name": "",
+    "permissions": "CONNECT SQL, VIEW ANY DATABASE, "
+  }
+]
