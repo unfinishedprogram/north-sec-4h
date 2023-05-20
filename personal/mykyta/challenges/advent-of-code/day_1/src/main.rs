@@ -6,8 +6,10 @@ fn main() {
 
     for i in &nums {
         for j in &nums {
-            if i + j == 2020 {
-                println!("{}", i * j);
+            for k in &nums {
+                if i + j + k == 2020 {
+                    println!("{}", i * j * k);
+                }
             }
         }
     }
