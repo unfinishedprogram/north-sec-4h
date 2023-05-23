@@ -1,5 +1,6 @@
-Annual Review
+# Annual Review
 
+## Part 1 
 AWS server
 serving files
   -preview.php
@@ -30,7 +31,7 @@ The flag was inside of there: flag-d19650aa911acb7c130aa380601d169d3bd08ab4
 
 ---
 
-Part 2 
+## Part 2 
 Need to find HR credentials
 
 Dynamo.php contains AWS key and secret
@@ -43,7 +44,7 @@ found flag as password.
 
 ---
 
-Part 3
+## Part 3
 
 With the HR credentials we logged in as HR
 
