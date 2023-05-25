@@ -1,0 +1,3 @@
+‰PNG
+
+<?php echo "Hello" ?>
