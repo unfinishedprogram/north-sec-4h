@@ -1,0 +1,18 @@
+<root>
+    <day name="Monday">
+    <meal>
+    Some text
+    </meal>
+    <important>
+     FLAG
+    </important>
+    </day>
+    <day name="Tuesday">
+    <meal>
+    Some other text from Tuesday
+    </meal>
+    <important>
+    FLAG
+    </important>
+    </day>
+</root>
